@@ -13,7 +13,7 @@ const HomeScreen = ({ navigation }) => {
             width: 300,
             height: 270,
             marginHorizontal: 30,
-            marginTop: 30,
+            marginTop: 60,
           }}
         />
         <Text
@@ -22,7 +22,7 @@ const HomeScreen = ({ navigation }) => {
             fontSize: 34,
             fontWeight: "bold",
             textAlign: "center",
-            marginTop: 40,
+            marginTop: 60,
           }}
         >
           {" "}
@@ -79,7 +79,7 @@ const HomeScreen = ({ navigation }) => {
           style={{
             backgroundColor: "#FFE45E",
             padding: 20,
-            marginTop: 20,
+            marginTop: 40,
             marginHorizontal: 35,
             borderRadius: 15,
           }}
